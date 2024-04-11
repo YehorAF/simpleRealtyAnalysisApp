@@ -1,0 +1,13 @@
+parsers/bin
+parsers/include
+parsers/lib
+parsers/lib64
+parsers/pyvenv.cfg
+parsers/parsed*
+
+server/bin
+server/include
+server/lib
+server/lib64
+server/pyvenv.cfg
+server/app/.env
